@@ -84,7 +84,7 @@ couleur.addEventListener('mouseover',function(){
       codergb = couleurInfini();  
       couleur.style.backgroundColor= `rgb(${codergb[0]},${codergb[1]},${codergb[2]})`;
     });
-couleur.addEventListener('mouseout',function(){
-    codergb = couleurInfini();
-    couleur.style.backgroundColor= `rgb(${codergb[0]},${codergb[1]},${codergb[2]})`;
-});
+// couleur.addEventListener('mouseout',function(){
+//     codergb = couleurInfini();
+//     couleur.style.backgroundColor= `rgb(${codergb[0]},${codergb[1]},${codergb[2]})`;
+// });
